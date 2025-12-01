@@ -1,0 +1,19 @@
+//
+//  mine.tsx
+//  
+//
+//  Created by Bellia.Deng on 2025/12/1.
+//
+
+import React from "react";
+import { Text, View } from "react-native";
+
+const mine = () => {
+  return (
+    <View>
+      <Text>个人中心</Text>
+    </View>
+  );
+};
+
+export default mine;
